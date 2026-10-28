@@ -43,9 +43,7 @@ Este tópico apresenta dois comandos a mais para fazer o build do código:
 
    Você descobre o caminho de instalação rodando o comando [`go list`](https://go.dev/cmd/go/#hdr-List_packages_or_modules), como neste exemplo:
 
-   ```
-   $ go list -f '{{.Target}}'
-   ```
+   <pre><code>$ go list -f '&#123;&#123;.Target&#125;&#125;'</code></pre>
 
    Por exemplo, a saída do comando pode ser `/home/gopher/bin/hello`, o que significa que os binários são instalados em `/home/gopher/bin`. Você vai precisar dessa pasta de instalação no próximo passo.
 
