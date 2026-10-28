@@ -2,6 +2,8 @@
 
 Tradução **não oficial** para português do Brasil dos tutoriais oficiais da linguagem Go, publicados em [go.dev/doc/tutorial](https://go.dev/doc/tutorial/).
 
+📖 **Leia online:** [neto-user.github.io/go-docs-ptbr](https://neto-user.github.io/go-docs-ptbr/)
+
 Os termos técnicos ficam em inglês (`package`, `module`, `slice`, `struct`, `map`, `pointer`, `type parameter`...), porque são os nomes que você vai encontrar no código, nos erros do compilador e na documentação. Os blocos de código são mantidos como no original.
 
 ## Por onde começar
@@ -18,6 +20,17 @@ Os termos técnicos ficam em inglês (`package`, `module`, `slice`, `struct`, `m
 
 Notas da tradução aparecem marcadas como **"Nota da tradução"** quando o original tem algum erro ou ambiguidade.
 
+## O que já está traduzido
+
+| Seção do go.dev | Status |
+| --- | --- |
+| [Tutoriais](tutorial/README.md) (18 páginas) | ✅ Traduzido |
+| [How to Write Go Code](https://go.dev/doc/code) | 🔲 Procurando quem traduza |
+| [Effective Go](https://go.dev/doc/effective_go) | 🔲 Procurando quem traduza |
+| [Go FAQ](https://go.dev/doc/faq) | 🔲 Procurando quem traduza |
+
 ## Contribuindo
 
-Achou um erro de tradução ou o original foi atualizado? Abra uma issue ou um pull request.
+Contribuições são muito bem-vindas, seja corrigindo uma vírgula ou traduzindo uma página inteira. Leia o [guia de contribuição](CONTRIBUTING.md) e veja as issues marcadas com `good first issue` e `help wanted`.
+
+Se este material te ajudou, deixe uma ⭐ no repositório: isso ajuda outras pessoas a encontrá-lo.

@@ -1,0 +1,25 @@
+name: Erro de tradução
+description: Achou uma frase errada, confusa ou um link quebrado?
+title: "[Erro] "
+labels: ["bug"]
+body:
+  - type: input
+    id: pagina
+    attributes:
+      label: Página
+      description: Qual arquivo ou link do site?
+      placeholder: tutorial/generics.md
+    validations:
+      required: true
+  - type: textarea
+    id: trecho
+    attributes:
+      label: Trecho com problema
+      description: Copie o trecho atual.
+    validations:
+      required: true
+  - type: textarea
+    id: sugestao
+    attributes:
+      label: Sugestão
+      description: Como deveria ficar? (opcional)

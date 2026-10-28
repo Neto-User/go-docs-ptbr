@@ -1,0 +1,25 @@
+name: Nova tradução
+description: Sugira (ou pegue para você) uma página do go.dev para traduzir.
+title: "[Traduzir] "
+labels: ["help wanted", "documentation"]
+body:
+  - type: input
+    id: original
+    attributes:
+      label: Link da página original
+      placeholder: https://go.dev/doc/effective_go
+    validations:
+      required: true
+  - type: dropdown
+    id: quem
+    attributes:
+      label: Quem vai traduzir?
+      options:
+        - Eu quero traduzir
+        - Só estou sugerindo
+    validations:
+      required: true
+  - type: textarea
+    id: obs
+    attributes:
+      label: Observações

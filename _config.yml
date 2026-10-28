@@ -8,3 +8,7 @@ plugins:
 relative_links:
   enabled: true
   collections: false
+
+exclude:
+  - CONTRIBUTING.md
+  - .github
