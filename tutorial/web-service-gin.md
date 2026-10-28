@@ -562,3 +562,8 @@ func getAlbumByID(c *gin.Context) {
 	c.IndentedJSON(http.StatusNotFound, gin.H{"message": "album not found"})
 }
 ```
+<!-- nav -->
+
+---
+
+[← Acessando um banco de dados relacional](database-access.md) · [Índice](README.md) · [Primeiros passos com generics →](generics.md)

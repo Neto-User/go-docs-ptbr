@@ -9,7 +9,8 @@ Neste tutorial, você escreveu funções e as organizou em dois modules: um com 
 Para saber mais sobre como gerenciar as dependências do seu código, veja [Managing dependencies](https://go.dev/doc/modules/managing-dependencies). Para saber mais sobre como desenvolver modules para outras pessoas usarem, veja [Developing and publishing modules](https://go.dev/doc/modules/developing).
 
 Para conhecer muitos outros recursos da linguagem Go, faça o [Tour of Go](https://go.dev/tour/).
+<!-- nav -->
 
 ---
 
-[< Compile e instale a aplicação](compile-install.md)
+[← Compile e instale a aplicação](compile-install.md) · [Índice](README.md) · [Workspaces multi-module →](workspaces.md)

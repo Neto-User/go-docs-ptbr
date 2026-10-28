@@ -105,7 +105,8 @@ O suporte embutido do Go a testes unitários facilita testar enquanto você dese
    ```
 
 No próximo (e último) tópico, você vai ver como compilar e instalar o seu código para rodá-lo localmente.
+<!-- nav -->
 
 ---
 
-[< Retorne saudações para várias pessoas](greetings-multiple-people.md) · [Compile e instale a aplicação >](compile-install.md)
+[← Retorne saudações para várias pessoas](greetings-multiple-people.md) · [Índice](README.md) · [Compile e instale a aplicação →](compile-install.md)

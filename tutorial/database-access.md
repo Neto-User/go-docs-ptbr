@@ -663,3 +663,8 @@ func addAlbum(alb Album) (int64, error) {
 	return id, nil
 }
 ```
+<!-- nav -->
+
+---
+
+[← Trabalhando com JSON](json.md) · [Índice](README.md) · [API RESTful com Go e Gin →](web-service-gin.md)

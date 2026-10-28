@@ -237,3 +237,8 @@ No vulnerabilities found.
 Por fim, o govulncheck confirma que nenhuma vulnerabilidade foi encontrada.
 
 Analisando as suas dependências regularmente com o comando govulncheck, você protege o seu código identificando, priorizando e tratando as vulnerabilidades.
+<!-- nav -->
+
+---
+
+[← Primeiros passos com fuzzing](fuzz.md) · [Índice](README.md) · [Dependências vulneráveis no VS Code Go →](govulncheck-ide.md)

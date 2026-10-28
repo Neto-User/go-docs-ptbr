@@ -89,3 +89,8 @@ As code actions também podem ser usadas para atualizar rapidamente para uma ver
 - Veja [esta página](https://go.dev/security/vuln/editor) para mais informações sobre análise de vulnerabilidades na IDE. Em especial, a seção [Notes and Caveats](https://go.dev/security/vuln/editor#notes-and-caveats) discute casos especiais em que a análise pode ser mais complexa do que no exemplo acima.
 - A [Go Vulnerability Database](https://pkg.go.dev/vuln/) reúne informações de várias fontes existentes, além de relatos enviados diretamente ao time de segurança do Go por mantenedores de packages Go.
 - A página [Go Vulnerability Management](https://go.dev/security/vuln/) dá uma visão geral da arquitetura do Go para detectar, reportar e gerenciar vulnerabilidades.
+<!-- nav -->
+
+---
+
+[← Primeiros passos com govulncheck](govulncheck.md) · [Índice](README.md)

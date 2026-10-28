@@ -696,3 +696,8 @@ func FuzzReverse(f *testing.F) {
 ```
 
 [Voltar ao topo](#tutorial-primeiros-passos-com-fuzzing)
+<!-- nav -->
+
+---
+
+[← Primeiros passos com generics](generics.md) · [Índice](README.md) · [Primeiros passos com govulncheck →](govulncheck.md)

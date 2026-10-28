@@ -126,7 +126,8 @@ Na [seção anterior](create-module.md), você criou um module `greetings`. Nest
 Parabéns! Você escreveu dois modules que funcionam.
 
 No próximo tópico, você vai adicionar tratamento de erros.
+<!-- nav -->
 
 ---
 
-[< Crie um module Go](create-module.md) · [Retorne e trate um erro >](handle-errors.md)
+[← Crie um module Go](create-module.md) · [Índice](README.md) · [Retorne e trate um erro →](handle-errors.md)

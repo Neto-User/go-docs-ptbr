@@ -125,7 +125,8 @@ Nessa situação, a melhor escolha é escrever uma função nova, com outro nome
 Este tópico apresentou os maps para representar pares nome/valor. Também apresentou a ideia de preservar a backward compatibility implementando uma função nova para funcionalidades novas ou alteradas em um module. Para saber mais sobre backward compatibility, veja [Keeping your modules compatible](https://go.dev/blog/module-compatibility).
 
 A seguir, você vai usar recursos embutidos do Go para criar um teste unitário para o seu código.
+<!-- nav -->
 
 ---
 
-[< Retorne uma saudação aleatória](random-greeting.md) · [Adicione um teste >](add-a-test.md)
+[← Retorne uma saudação aleatória](random-greeting.md) · [Índice](README.md) · [Adicione um teste →](add-a-test.md)

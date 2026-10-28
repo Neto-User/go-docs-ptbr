@@ -95,7 +95,8 @@ Tratar erros é uma característica essencial de um código sólido. Nesta seç�
 Esse é o tratamento de erro comum em Go: retornar o erro como um valor, para que o caller possa checá-lo.
 
 A seguir, você vai usar uma slice do Go para retornar uma saudação escolhida aleatoriamente.
+<!-- nav -->
 
 ---
 
-[< Chame o seu código a partir de outro module](call-module-code.md) · [Retorne uma saudação aleatória >](random-greeting.md)
+[← Chame o seu código a partir de outro module](call-module-code.md) · [Índice](README.md) · [Retorne uma saudação aleatória →](random-greeting.md)

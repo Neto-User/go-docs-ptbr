@@ -150,3 +150,8 @@ Quando você precisa que o seu código faça algo que talvez outra pessoa já te
 ## Escreva mais código
 
 Com esta introdução rápida, você instalou o Go e aprendeu um pouco do básico. Para escrever mais código com outro tutorial, veja [Crie um module Go](create-module.md).
+<!-- nav -->
+
+---
+
+[Índice](README.md) · [Crie um module Go →](create-module.md)

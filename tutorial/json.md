@@ -314,3 +314,8 @@ Com o unmarshal personalizado, `"1.2.3"` agora vira `Version{1, 2, 3}`. Este exe
 ## Referências
 
 Para mais informações, veja a documentação dos packages [encoding/json/v2](https://pkg.go.dev/encoding/json/v2) e [encoding/json/jsontext](https://pkg.go.dev/encoding/json/jsontext).
+<!-- nav -->
+
+---
+
+[← Workspaces multi-module](workspaces.md) · [Índice](README.md) · [Acessando um banco de dados relacional →](database-access.md)

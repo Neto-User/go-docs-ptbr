@@ -89,7 +89,8 @@ Este tópico apresenta dois comandos a mais para fazer o build do código:
    ```
 
 E assim termina este tutorial de Go!
+<!-- nav -->
 
 ---
 
-[< Adicione um teste](add-a-test.md) · [Conclusão e links para saber mais >](module-conclusion.md)
+[← Adicione um teste](add-a-test.md) · [Índice](README.md) · [Conclusão da série de modules →](module-conclusion.md)

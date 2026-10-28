@@ -110,7 +110,8 @@ Código Go é agrupado em packages, e packages são agrupados em modules. O seu 
    - Retorna o texto formatado da saudação para quem chamou a função.
 
 No próximo passo, você vai chamar essa função a partir de outro module.
+<!-- nav -->
 
 ---
 
-[Chame o seu código a partir de outro module >](call-module-code.md)
+[← Primeiros passos](getting-started.md) · [Índice](README.md) · [Chame o seu código a partir de outro module →](call-module-code.md)

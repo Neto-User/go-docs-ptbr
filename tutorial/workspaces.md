@@ -236,3 +236,8 @@ Além do `go work init`, que vimos antes no tutorial, o comando `go` tem alguns 
 - `go work sync` sincroniza as dependências da build list do workspace em cada um dos modules do workspace.
 
 Veja [Workspaces](https://go.dev/ref/mod#workspaces) na Go Modules Reference para mais detalhes sobre workspaces e arquivos `go.work`.
+<!-- nav -->
+
+---
+
+[← Conclusão da série de modules](module-conclusion.md) · [Índice](README.md) · [Trabalhando com JSON →](json.md)

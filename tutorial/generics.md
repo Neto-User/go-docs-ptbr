@@ -422,3 +422,8 @@ func SumNumbers[K comparable, V Number](m map[K]V) V {
 	return s
 }
 ```
+<!-- nav -->
+
+---
+
+[← API RESTful com Go e Gin](web-service-gin.md) · [Índice](README.md) · [Primeiros passos com fuzzing →](fuzz.md)

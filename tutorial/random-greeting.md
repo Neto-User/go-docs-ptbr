@@ -105,7 +105,8 @@ Você vai adicionar uma pequena slice com três mensagens de saudação e fazer 
    ```
 
 A seguir, você vai usar uma slice para cumprimentar várias pessoas.
+<!-- nav -->
 
 ---
 
-[< Retorne e trate um erro](handle-errors.md) · [Retorne saudações para várias pessoas >](greetings-multiple-people.md)
+[← Retorne e trate um erro](handle-errors.md) · [Índice](README.md) · [Retorne saudações para várias pessoas →](greetings-multiple-people.md)
