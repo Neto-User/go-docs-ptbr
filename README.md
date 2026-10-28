@@ -31,6 +31,6 @@ Notas da tradução aparecem marcadas como **"Nota da tradução"** quando o ori
 
 ## Contribuindo
 
-Contribuições são muito bem-vindas, seja corrigindo uma vírgula ou traduzindo uma página inteira. Leia o [guia de contribuição](CONTRIBUTING.md) e veja as issues marcadas com `good first issue` e `help wanted`.
+Contribuições são muito bem-vindas, seja corrigindo uma vírgula ou traduzindo uma página inteira. Leia o [guia de contribuição](https://github.com/Neto-User/go-docs-ptbr/blob/main/CONTRIBUTING.md) e veja as issues marcadas com `good first issue` e `help wanted`.
 
 Se este material te ajudou, deixe uma ⭐ no repositório: isso ajuda outras pessoas a encontrá-lo.
